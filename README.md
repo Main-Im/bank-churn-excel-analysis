@@ -6,6 +6,7 @@ I have added several columns and sheets to the workbook, including derived featu
 ## BankChurners Excel Analysis
 
 This project analyzes credit card customer attrition patterns using Excel. It focuses on identifying high-risk customer segments and uncovering trends using pivot tables, charts, and formulas.
+**Note:** Figures and formulas used for analysis are located in the `READ_ME_Formulas_Charts` sheet of the Excel file.
 
 ## Tools Used
 - Microsoft Excel
